@@ -14,11 +14,11 @@ The repository contains the following directories:
 ----
 
 Changing colors: open the blue/orange directory and copy all files to the main directory and run conky-startup.sh.    
-----
+----      
 
 Wallpapers are created with Dall-E and Copilot and compiled in Krita editor.    
 
-----
+----      
 
 For more my conky.config for x11 go to: [Codehack.cz](https://codehack.cz/conky.html#gsc.tab=0)     
 Homepage Conky project. [Conky](https://github.com/brndnmtthws/conky/wiki)      

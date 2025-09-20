@@ -7,7 +7,10 @@ The repository contains the following directories:
 - fonts :        with the fonts used
 - conky_pocasi : weather.sh bash script that uses the API from https://openweathermap.org to get weather data.     
                  The data is saved in a .txt file, from where conky loads it weather.conf.     
-
+--
 Changing colors: open the blue/orange directory and copy all files to the main directory and run conky-startup.sh.    
-
+--
 Wallpapers are created with Dall-E and Copilot and compiled in Krita editor.    
+
+--    
+<img https://github.com/n4zz/Sci_conky/blob/main/BlueP.png?raw=true/>

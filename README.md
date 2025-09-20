@@ -18,9 +18,11 @@ Changing colors: open the blue/orange directory and copy all files to the main d
 
 Wallpapers are created with Dall-E and Copilot and compiled in Krita editor.    
 
-----    
-For more my conky.config for x11 go to: [Codehack.cz](https://codehack.cz/conky.html#gsc.tab=0)
-Homepage Conky project. [Conky](https://github.com/brndnmtthws/conky/wiki)
+----
+
+For more my conky.config for x11 go to: [Codehack.cz](https://codehack.cz/conky.html#gsc.tab=0)     
+Homepage Conky project. [Conky](https://github.com/brndnmtthws/conky/wiki)      
+
 ----     
 
 <img src="OrangeP.png" alt="Screenshot_orange" width="600">     

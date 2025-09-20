@@ -13,4 +13,7 @@ Changing colors: open the blue/orange directory and copy all files to the main d
 Wallpapers are created with Dall-E and Copilot and compiled in Krita editor.    
 
 --    
-<img https://github.com/n4zz/Sci_conky/blob/main/BlueP.png?raw=true/>
+<img src="OrangeP.png" alt="Screenshot_orange" width="600">     
+
+
+<img src="BlueP.png" alt="Screenshot_blue" width="600">

@@ -131,8 +131,8 @@ declare -A weather_icons=(
 # Určíme cestu k ikoně na základě popisu počasí
 icon_file="${weather_icons[$description]}"
 if [ -n "$icon_file" ]; then
-  cp /home/$USER/.config/conky/robust2/conky_pocasi/ico_weather/$icon_file /home/$USER/.config/conky/robust2/conky_pocasi/ico/
-  cd /home/$USER/.config/conky/robust2/conky_pocasi/ico/
+  cp /home/$USER/.config/conky/Sci_conky-main/conky_pocasi/ico_weather/$icon_file /home/$USER/.config/conky/Sci_conky-main/conky_pocasi/ico/
+  cd /home/$USER/.config/conky/Sci_conky-main/conky_pocasi/ico/
   rm weather.png
   mv *.png weather.png
 #else

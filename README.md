@@ -22,7 +22,7 @@ Wallpapers are created with Dall-E and Copilot and compiled in Krita editor.
 ----      
 
 For more my conky.config for x11 go to: [Codehack.cz](https://codehack.cz/conky.html#gsc.tab=0)     
-Homepage Conky project. [Conky](https://github.com/brndnmtthws/conky/wiki)      
+Conky project [Homepage](https://github.com/brndnmtthws/conky/wiki)      
 
 ----     
 

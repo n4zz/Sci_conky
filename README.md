@@ -13,7 +13,8 @@ The repository contains the following directories:
                  The data is saved in a .txt file, from where conky loads it weather.conf.     
 ----
 
-Changing colors: open the blue/orange directory and copy all files to the main directory and run conky-startup.sh.    
+Changing colors: open the blue/orange directory and copy all files to the main directory and run conky-startup.sh.      
+
 ----      
 
 Wallpapers are created with Dall-E and Copilot and compiled in Krita editor.    

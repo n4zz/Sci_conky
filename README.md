@@ -19,7 +19,27 @@ Changing colors: open the blue/orange directory and copy all files to the main d
 
 Wallpapers are created with Dall-E and Copilot and compiled in Krita editor.    
 
-----      
+----
+
+## How to install     
+
+1. Unzip the downloaded Sci_conky-main.zip archive     
+2. Move the Sci_conky-main directory to /home/user/.config/conky     
+3. Move the files from the Blue or Orange directory to the Sci_conky-main directory.     
+4. Run the bash script conky-startup.sh     
+- In the terminal: bash conky-startup.sh     
+- To automatically start after the old system, add the script to:     
+System settings / automatic startup / login script. The system version varies.     
+     
+Or     
+      
+1. Edit conky-startup.sh    
+In the terminal: nano conky -startup.sh     
+2. Change the file paths.     
+- cd "$HOME/.config/conky/sci_conky/"     
+- change to: cd "your/way/directory/sci_conky/"
+
+----     
 
 For more my conky.config for x11 go to: [Codehack.cz](https://codehack.cz/conky.html#gsc.tab=0)     
 Conky project [Homepage](https://github.com/brndnmtthws/conky/wiki)      
